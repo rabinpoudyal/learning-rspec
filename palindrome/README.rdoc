@@ -1,0 +1,13 @@
+- How to test if a string is palindrome?
+
+- First lowercase the string
+
+- Test if the length is odd or even 
+
+- Determine the mid point of string
+
+- reverse the last half of the string 
+- Test if first half is equal to last half 
+    - If it is then it is palindrome
+    - else
+        - Not a palindrome
